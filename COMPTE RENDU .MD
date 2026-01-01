@@ -1,6 +1,6 @@
 # 📘 Analyse et Prédiction de la Performance Sportive
 
-#Bousboula mouad
+# Bousboula mouad
 
 <img src="image.png" style="height:464px;margin-right:432px"/>
 
